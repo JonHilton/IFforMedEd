@@ -1,3 +1,15 @@
-This is an attempt at a read me.
+Q: What is IF?
+Interactive fiction (IF) is essentially a computerised version of those “Choose your own adventure” books you read as a kid, the sort that said things like:
+You are in a forest, there are exits NORTH and SOUTH. Which way would you like to go?
+NORTH go to page 135.
+SOUTH go to page 71.
+and then you would flick to that page but always keeping a finger in the page you came from just in case things went wrong. 
 
-Hopefully this will work.
+Q: What is MedEd?
+It is the hashtag of choice when talking about medical education on Twitter [I'm @jonjhilton by the way]
+
+Q: What is PBL?
+Problem based learning - It's all the rage in MedEd circles and is the teaching style of choice at SGUL where I'm currently a student.
+
+Q: Hang on a minute, you're a medical student, you can't go around creating things for your own education!
+A: La la la, I'm not listening
